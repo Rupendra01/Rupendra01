@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupendra01
-- 👀 I’m interested in coding and doing many projects on ml, ai domains.
-- 🌱 I’m currently learning AI(Artificial Intelligence)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and doing many projects on different domains which are important for CSE student.
+- 🌱 I’m currently learning AI(Artificial Intelligence).
+- 💞️ I’m looking to collaborate on software based companies to improve my skills.
 - 📫 How to reach me rupendrareddybandi2001@gmail.com
 
 <!---
